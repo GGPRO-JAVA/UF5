@@ -17,7 +17,7 @@ Per exemple , omplir un array de 23 elements sencers amb el valor -1.
 
 ```java
 int valors[] = new int[23];
-Arrays.fill(valors,-1); // Emmagatzema -1 en tot el array ‘valors’
+Arrays.fill(valors,-1); // Emmagatzema -1 en tot el array ‘valors'
 ```
 
 :::

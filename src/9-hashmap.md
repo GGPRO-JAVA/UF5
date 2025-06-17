@@ -65,7 +65,7 @@ public class ExempleHashMap {
     // Obtindre valor per clau 
     int edatMaria = persona.get("Maria"); //edatMaria = 25
 
-    // Recórrer el hashMap persona amb un “foreach”
+    // Recórrer el hashMap persona amb un "foreach"
     for (String clau: persona.keySet()) {
       Int valor = persona.get(clau);
       System.out.println(clau + " - " + valor);
