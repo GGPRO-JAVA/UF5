@@ -79,7 +79,7 @@ noms.remove(0); // elimina "Pau"
 
 :::
 
->***Exemple complets d’un Array:***
+>***Exemple complets d'un Array:***
 >
 >::: tabs
 >== Java
@@ -104,13 +104,13 @@ noms.remove(0); // elimina "Pau"
 >
 >:::
 
-**IMPORTANT!**: Per a eliminar un element d’un array i que canvie el seu tamany cal:
+**IMPORTANT!**: Per a eliminar un element d'un array i que canvie el seu tamany cal:
 
-- Crea un nou array amb una longitud 1 menor que l’original. 
-- Copia tots els elements de l’array original excepte el que vols eliminar al nou array. 
-- Assigna el nou array a l’array original.
+- Crea un nou array amb una longitud 1 menor que l'original. 
+- Copia tots els elements de l'array original excepte el que vols eliminar al nou array. 
+- Assigna el nou array a l'array original.
 
->***Exemple complet d’un ArrayList:***
+>***Exemple complet d'un ArrayList:***
 >
 >::: tabs
 >== Java

@@ -35,7 +35,7 @@ public class UF05Exemple01 {
 
 ## Exemple 2
 
-Mostrar el contingut de la posició del vector que demane l’usuari.
+Mostrar el contingut de la posició del vector que demane l'usuari.
 
 ::: tabs
 == Java
@@ -44,7 +44,7 @@ Mostrar el contingut de la posició del vector que demane l’usuari.
 package curs.UF05exemples;
 import java.util.Scanner;
 /**
-* Mostrar el contingut de la posició del vector que demane l’usuari.
+* Mostrar el contingut de la posició del vector que demane l'usuari.
 */
 public class UF05Exemple02 {
     public static void main(String[] args) {
@@ -246,7 +246,7 @@ public class UF05Exemple06 {
 
 ## Exemple 7
 
-Cerca en una frase introduïda per teclat de la primera i última aparició d’un caràcter indicat per l’usuari.
+Cerca en una frase introduïda per teclat de la primera i última aparició d'un caràcter indicat per l'usuari.
 
 ::: tabs
 == Java
@@ -256,7 +256,7 @@ package curs.UF05exemples;
 import java.util.Scanner;
 /**
 * UF05 Exemeple 07: Cerca en una frase introduïda per teclat de la primera i última 
-aparició d’un caràcter indicat per l’usuari.
+aparició d'un caràcter indicat per l'usuari.
 */
 public class UF05Exemple07 {
     public static void main(String[] args) { 
@@ -278,7 +278,7 @@ public class UF05Exemple07 {
         posIn = text.indexOf(caracter); 
         posFi = text.lastIndexOf(caracter);
         if (posIn > -1){
-            System.out.println("Les aparicions del caràcter '" + caracter + "’ son:" ); 
+            System.out.println("Les aparicions del caràcter '" + caracter + "' son:" ); 
             System.out.println("Primera aparició: " + posIn+1); 
             System.out.println("Última aparició: " + posFi+1); 
         } else { 
@@ -386,7 +386,7 @@ public class UF05Exemple09 {
 
 ## Exemple 10
 
-Cerca dicotòmica o binaria utilitzant la funció binarySearch. Inclou exemple de l’ús de la funció arraycopy.
+Cerca dicotòmica o binaria utilitzant la funció binarySearch. Inclou exemple de l'ús de la funció arraycopy.
 
 ::: tabs
 == Java
@@ -397,7 +397,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 /**
 * Cerca dicotòmica o binaria utilitzant la funció binarySearch.
-* Inclou exemple de l’ús de la funció arraycopy.
+* Inclou exemple de l'ús de la funció arraycopy.
 */
 public class UF05Exemple10 {
     public static void main (String[] args){
@@ -432,7 +432,7 @@ public class UF05Exemple10 {
 
 :::
 
-## Exemple d’ompliment i recorregut d’un vector
+## Exemple d'ompliment i recorregut d'un vector
 
 Veurem un exemple de com omplir i mostrar un vector d'enters:
 
